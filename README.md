@@ -78,9 +78,12 @@ Shop-Hub/
 
 ## 📸 Screenshots
 
-| **Home Page** | **Checkout Modal** |
+| **Home Page** | 
+|---------------|
+| ![Product Listing](screenshots/product-listing.png) |
+| **Checkout Modal** |
 |---------------|-------------------|
-| ![Product Listing](screenshots/product-listing.png) | ![Checkout Modal](screenshots/checkout-modal1.png) ![Checkout Modal](screenshots/checkout-modal2.png)|
+![Checkout Modal](screenshots/checkout-modal1.png) | ![Checkout Modal](screenshots/checkout-modal2.png)|
 
 *Note*: Screenshots are available in the `screenshots` folder of the repository.
 
