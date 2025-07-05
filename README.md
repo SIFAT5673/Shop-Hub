@@ -4,7 +4,7 @@
 
 🛒 Mini E-Commerce – Frontend Assessment Project || A single page e-commerce application built using Vite, React, TypeScript, Tailwind CSS, and shadcn-ui. It features product listing, detailed view, cart management, and a checkout modal, designed to provide a responsive and modern user experience.
 
-**URL**: 
+**URL**: https://shop-hub-eosin.vercel.app/
 
 
 **Edit a file directly in GitHub**
