@@ -9,7 +9,6 @@ Welcome to **Shop Hub**, a sleek and modern single-page e-commerce application b
 - **Live Demo**: [https://shop-hub-eosin.vercel.app/](https://shop-hub-eosin.vercel.app/)  
 - **GitHub Repository**: [https://github.com/SIFAT5673/Shop-Hub](https://github.com/SIFAT5673/Shop-Hub)  
 
-![GitHub stars](https://img.shields.io/github/stars/SIFAT5673/Shop-Hub?style=social) ![GitHub forks](https://img.shields.io/github/forks/SIFAT5673/Shop-Hub?style=social)
 
 ## ✨ Features
 
