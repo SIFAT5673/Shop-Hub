@@ -81,7 +81,7 @@ Shop-Hub/
 | **Home Page** | 
 |---------------|
 | ![Product Listing](screenshots/product-listing.png) |
-| **Checkout Modal** |
+| **Checkout**  | **Modal** |
 |---------------|-------------------|
 ![Checkout Modal](screenshots/checkout-modal1.png) | ![Checkout Modal](screenshots/checkout-modal2.png)|
 
