@@ -115,7 +115,7 @@ Shop Hub is more than just an assessment project—it’s a showcase of modern f
 
 For any questions or feedback, feel free to reach out:  
 - **Email**: sifat16@cse.pstu.ac.bd
-- **Website**: portfolio-sifatulhuq.vercel.app
+- **Website**: [portfolio-sifatulhuq.vercel.app](https://portfolio-sifatulhuq.vercel.app/)
 - **Qtec Solution Limited Contact**: [info@QtecSolution.com](mailto:info@QtecSolution.com)  
 - **Website**: [www.QtecSolution.com](http://www.QtecSolution.com)
 
